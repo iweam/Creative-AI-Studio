@@ -5,7 +5,7 @@
 Creative AI Studio is a Generative AI tool designed to help graphic designers develop practical and creative design directions.
 
 The tool generates design recommendations based on the user's project type, brand, business, target audience, and preferred design style.
-
+📄 [View Project PDF](CREATIVE%20AI%20STUDIO-Wem.pdf)
 ## ✨ Features
 
 - 🎯 Generates a clear design direction
